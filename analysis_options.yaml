@@ -1,0 +1,14 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # You can uncomment the following if you want to customize more
+    # For now we inherit from flutter_lints which is good for packages
+
+analyzer:
+  exclude:
+    - build/**
+    - .dart_tool/**
+    - .idea/**
+    - .vscode/**
+    - test/**.mocks.dart  # If using Mockito

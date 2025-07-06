@@ -1,0 +1,25 @@
+name: firebase_auth_simplified_ui
+version: 0.1.1
+description: A plug-and-play Flutter package for Firebase Auth UI (login, signup, forgot password)
+repository: https://github.com/alfaz07/firebase_auth_simplified_ui
+issue_tracker: https://github.com/alfaz07/firebase_auth_simplified_ui/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.7.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^5.6.2
+  provider: ^6.0.0
+  firebase_core: ^3.15.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+false_secrets:
+  - example/lib/firebase_options.dart
+  - example/android/app/google-services.json
+  - example/ios/Runner/GoogleService-Info.plist
