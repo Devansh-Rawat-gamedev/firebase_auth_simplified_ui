@@ -102,7 +102,7 @@ Check the `example/` folder for a complete demo showcasing:
 ## 📖 Documentation & Support
 
 * **API Reference**: [pub.dev Documentation](https://pub.dev/packages/firebase_auth_simplified_ui)
-* **Source Code**: [GitHub Repository](https://github.com/yourusername/firebase_auth_simplified_ui)
+* **Source Code**: [GitHub Repository](https://github.com/Alfaz07/firebase_auth_simplified_ui)
 * **Issues & Feature Requests**: Open an issue on GitHub.
 
 ## ❤️ Contributing
